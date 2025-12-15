@@ -7,7 +7,6 @@
 
 - 📄 Know about my experiences [https://akselirajahalme.fi/](https://akselirajahalme.fi/)
 
-- ⚡ Fun fact **I can**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
