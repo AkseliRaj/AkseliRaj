@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akseli Rajahalme</h1>
+<h1 align="center">Hello 👋, I'm Akseli Rajahalme</h1>
 <h3 align="center">Frontend developer and web designer based in Finland.</h3>
 
 - 🌱 I’m currently learning **Backend solutions for react applications**
@@ -7,9 +7,9 @@
 
 - 📄 Know about my experiences [https://akselirajahalme.fi/](https://akselirajahalme.fi/)
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/https://www.instagram.com/askeli.png/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/askeli.png/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
